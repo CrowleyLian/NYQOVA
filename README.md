@@ -4,6 +4,12 @@
 
 当前版本：**0.6.1**。项目仍在开发中，目标设备的兼容性与长时间播放表现需要实机验证。
 
+## 下载安装
+
+**[下载 NYQOVA v0.6.1 APK（预发布）](https://github.com/CrowleyLian/NYQOVA/releases/download/v0.6.1/NYQOVA-0.6.1-armeabi-v7a-debug.apk)**
+
+此安装包使用调试签名，需要 Android 6.0 或更高版本，且设备须支持 32 位 ARM（`armeabi-v7a`）应用。版本说明及 SHA-256 校验文件见 [v0.6.1 发布页](https://github.com/CrowleyLian/NYQOVA/releases/tag/v0.6.1)。
+
 ## 界面截图
 
 **电视首页 · 午夜蓝**
