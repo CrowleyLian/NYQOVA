@@ -4,6 +4,16 @@
 
 当前版本：**0.6.1**。项目仍在开发中，目标设备的兼容性与长时间播放表现需要实机验证。
 
+## 界面截图
+
+**电视首页 · 午夜蓝**
+
+![电视首页，含遥控器焦点、音乐库快捷入口和底部播放栏](docs/screenshots/home.png)
+
+| 中文首字母搜索 | 播放队列 | 外观主题与强调色 |
+| --- | --- | --- |
+| [![暖调唱片主题下的遥控器搜索键盘](docs/screenshots/search.png)](docs/screenshots/search.png) | [![高对比主题下的播放页和右侧队列](docs/screenshots/queue.png)](docs/screenshots/queue.png) | [![四套主题和八种强调色的外观设置](docs/screenshots/themes.png)](docs/screenshots/themes.png) |
+
 ## 功能
 
 - SMB2/3、WebDAV 只读文件浏览；连接信息通过 Android Keystore 加密保存。
