@@ -1,0 +1,88 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#E6435A</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="ThemeClassic" parent="AppTheme">
+        <item name="android:statusBarColor">#14121B</item>
+        <item name="android:navigationBarColor">#14121B</item>
+        <item name="android:windowBackground">#14121B</item>
+        <item name="android:colorBackground">#14121B</item>
+        <item name="android:colorBackgroundFloating">#272531</item>
+        <item name="android:colorButtonNormal">#3B3847</item>
+        <item name="android:textColorPrimary">#F7F4FC</item>
+        <item name="android:textColorSecondary">#B3ADBF</item>
+        <item name="android:textColorHint">#B3ADBF</item>
+        <item name="android:colorControlNormal">#B3ADBF</item>
+    </style>
+    <style name="ThemeClassic.Coral"><item name="android:colorAccent">#E6435A</item></style>
+    <style name="ThemeClassic.Rose"><item name="android:colorAccent">#D6637C</item></style>
+    <style name="ThemeClassic.Purple"><item name="android:colorAccent">#AF46DB</item></style>
+    <style name="ThemeClassic.Blue"><item name="android:colorAccent">#4078ED</item></style>
+    <style name="ThemeClassic.Green"><item name="android:colorAccent">#7DA743</item></style>
+    <style name="ThemeClassic.Ice"><item name="android:colorAccent">#72B7FF</item></style>
+    <style name="ThemeClassic.Amber"><item name="android:colorAccent">#E5AB55</item></style>
+    <style name="ThemeClassic.Cyan"><item name="android:colorAccent">#40E0D0</item></style>
+    <style name="ThemeMidnight" parent="AppTheme">
+        <item name="android:statusBarColor">#07111E</item>
+        <item name="android:navigationBarColor">#07111E</item>
+        <item name="android:windowBackground">#07111E</item>
+        <item name="android:colorBackground">#07111E</item>
+        <item name="android:colorBackgroundFloating">#14243A</item>
+        <item name="android:colorButtonNormal">#233E5B</item>
+        <item name="android:textColorPrimary">#EDF5FF</item>
+        <item name="android:textColorSecondary">#AEC4DC</item>
+        <item name="android:textColorHint">#AEC4DC</item>
+        <item name="android:colorControlNormal">#AEC4DC</item>
+    </style>
+    <style name="ThemeMidnight.Coral"><item name="android:colorAccent">#E6435A</item></style>
+    <style name="ThemeMidnight.Rose"><item name="android:colorAccent">#D6637C</item></style>
+    <style name="ThemeMidnight.Purple"><item name="android:colorAccent">#AF46DB</item></style>
+    <style name="ThemeMidnight.Blue"><item name="android:colorAccent">#4078ED</item></style>
+    <style name="ThemeMidnight.Green"><item name="android:colorAccent">#7DA743</item></style>
+    <style name="ThemeMidnight.Ice"><item name="android:colorAccent">#72B7FF</item></style>
+    <style name="ThemeMidnight.Amber"><item name="android:colorAccent">#E5AB55</item></style>
+    <style name="ThemeMidnight.Cyan"><item name="android:colorAccent">#40E0D0</item></style>
+    <style name="ThemeWarm" parent="AppTheme">
+        <item name="android:statusBarColor">#1A1511</item>
+        <item name="android:navigationBarColor">#1A1511</item>
+        <item name="android:windowBackground">#1A1511</item>
+        <item name="android:colorBackground">#1A1511</item>
+        <item name="android:colorBackgroundFloating">#30271F</item>
+        <item name="android:colorButtonNormal">#493A2C</item>
+        <item name="android:textColorPrimary">#F5E9D5</item>
+        <item name="android:textColorSecondary">#C8BBA5</item>
+        <item name="android:textColorHint">#C8BBA5</item>
+        <item name="android:colorControlNormal">#C8BBA5</item>
+    </style>
+    <style name="ThemeWarm.Coral"><item name="android:colorAccent">#E6435A</item></style>
+    <style name="ThemeWarm.Rose"><item name="android:colorAccent">#D6637C</item></style>
+    <style name="ThemeWarm.Purple"><item name="android:colorAccent">#AF46DB</item></style>
+    <style name="ThemeWarm.Blue"><item name="android:colorAccent">#4078ED</item></style>
+    <style name="ThemeWarm.Green"><item name="android:colorAccent">#7DA743</item></style>
+    <style name="ThemeWarm.Ice"><item name="android:colorAccent">#72B7FF</item></style>
+    <style name="ThemeWarm.Amber"><item name="android:colorAccent">#E5AB55</item></style>
+    <style name="ThemeWarm.Cyan"><item name="android:colorAccent">#40E0D0</item></style>
+    <style name="ThemeContrast" parent="AppTheme">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:colorBackground">#000000</item>
+        <item name="android:colorBackgroundFloating">#101010</item>
+        <item name="android:colorButtonNormal">#262626</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#DDDDDD</item>
+        <item name="android:textColorHint">#DDDDDD</item>
+        <item name="android:colorControlNormal">#DDDDDD</item>
+    </style>
+    <style name="ThemeContrast.Coral"><item name="android:colorAccent">#E6435A</item></style>
+    <style name="ThemeContrast.Rose"><item name="android:colorAccent">#D6637C</item></style>
+    <style name="ThemeContrast.Purple"><item name="android:colorAccent">#AF46DB</item></style>
+    <style name="ThemeContrast.Blue"><item name="android:colorAccent">#4078ED</item></style>
+    <style name="ThemeContrast.Green"><item name="android:colorAccent">#7DA743</item></style>
+    <style name="ThemeContrast.Ice"><item name="android:colorAccent">#72B7FF</item></style>
+    <style name="ThemeContrast.Amber"><item name="android:colorAccent">#E5AB55</item></style>
+    <style name="ThemeContrast.Cyan"><item name="android:colorAccent">#40E0D0</item></style>
+</resources>

@@ -1,0 +1,31 @@
+.gradle/
+.gradle-home/
+.tools/
+local.properties
+**/build/
+*.iml
+.idea/
+# Local test reports, screenshots, packages and design references
+/artifacts/
+/参考布局/
+
+# Private configuration and signing material
+.env
+.env.*
+!.env.example
+keystore.properties
+signing.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Editor, Python and OS files
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.log
